@@ -1,6 +1,6 @@
 body{
 	font-family: 'Cabin', sans-serif;
-	
+	padding-top: 100px;
 	}
 
 .logo{
@@ -8,3 +8,38 @@ body{
 	font-size: 30px;
 	}
 	
+.lhparrafo{
+	line-height: 30px;
+}
+
+.padjumbo{
+	padding: 70px;
+}
+
+.lobster{
+	font-family: 'Lobster', cursive;
+}
+
+.btn {
+	padding-left: 60px;
+		padding-right: 60px;
+		padding-bottom: 3px;
+		padding-top: 3px;
+}
+
+.fweight{
+	font-weight: 700;
+}
+
+hr{
+	background: black;
+	height: 1px;
+}
+
+.hring{
+		width: 35%;
+		text-align: left;
+		margin-left: 0px;
+		
+		
+}
